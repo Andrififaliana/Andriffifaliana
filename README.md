@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=Andrififaliana%20Simon%20Pierre%20RATSARAFIHAVY&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Développeur%20Full-Stack%20•%20React%20•%20NestJS%20•%20Flutter&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Full-Stack;Passionné+par+le+Cloud+et+le+DevOps;React+•+NestJS+•+Flutter+•+Spring+Boot;Toujours+en+train+d'apprendre+de+nouvelles+technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Full-Stack;Passionné+par+le+Cloud+Computing+et+le+DevOps;React+•+NestJS+•+Flutter+•+Spring+Boot;Toujours+en+quête+d'apprentissage"/>
 
-<br>
+<br><br>
 
 <a href="https://andrififaliana-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visiter-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:andrififalianaratsarafihavy@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -20,18 +20,43 @@
 
 # À propos
 
-Je suis un **étudiant en L3 Informatique** passionné par le développement logiciel et les nouvelles technologies.
+<table>
+<tr>
 
-J'aime concevoir des applications modernes, performantes et évolutives en utilisant des architectures propres et des bonnes pratiques de développement.
+<td width="60%">
 
-Je m'intéresse particulièrement à :
+### Présentation
+
+Je suis **Andrififaliana Simon Pierre RATSARAFIHAVY**, étudiant en **Licence 3 Informatique** et développeur **Full-Stack**.
+
+Je conçois des applications modernes, performantes et évolutives en mettant l'accent sur la qualité du code, la maintenabilité et les bonnes pratiques de développement.
+
+Je m'intéresse particulièrement à la conception d'architectures logicielles robustes, au développement d'API sécurisées, au développement mobile ainsi qu'au Cloud Computing.
+
+<br>
+
+### Domaines d'intérêt
 
 - Développement Web Full-Stack
 - Développement Mobile Flutter
-- Architecture Backend avec NestJS
+- Architecture Backend
+- Clean Architecture
 - Cloud Computing
 - DevOps
 - Bases de données relationnelles
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andrififaliana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
@@ -43,35 +68,37 @@ Je m'intéresse particulièrement à :
 
 # Technologies
 
-### Front-end
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,flutter,dart" />
-</p>
+### Front-End
 
-### Back-end
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,flutter,dart"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,java,python,graphql" />
-</p>
+<br><br>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,java,python,graphql"/>
+
+<br><br>
 
 ### Bases de données
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma"/>
+
+<br><br>
 
 ### Cloud • DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,gitlab,jenkins,nginx" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,gitlab,jenkins,nginx"/>
+
+<br><br>
 
 ### Outils
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</div>
 
 ---
 
@@ -79,15 +106,13 @@ Je m'intéresse particulièrement à :
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=andrififaliana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrififaliana&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrififaliana&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrififaliana&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# Série de contributions
+<br>
 
 <div align="center">
 
@@ -97,7 +122,7 @@ Je m'intéresse particulièrement à :
 
 ---
 
-# Activité récente
+# Activité
 
 <div align="center">
 
@@ -107,24 +132,51 @@ Je m'intéresse particulièrement à :
 
 ---
 
-# Réalisations GitHub
+# Projets actuels
 
-<div align="center">
+<table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrififaliana&theme=tokyonight&margin-w=15&no-frame=true&row=1&column=6"/>
+<tr>
+<td>
 
-</div>
+Développement d'applications **Web Full-Stack** avec React et NestJS
 
----
+</td>
+</tr>
 
-# Ce que je développe actuellement
+<tr>
+<td>
 
-- Applications Web Full-Stack
-- API REST avec NestJS
-- Applications mobiles Flutter
-- Architecture propre (Clean Architecture)
-- Intégration Continue (CI/CD)
-- Déploiement Cloud
+Développement d'applications **Flutter** multiplateformes
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Conception d'API REST sécurisées et documentées avec Swagger
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Mise en œuvre de **Clean Architecture** et de bonnes pratiques logicielles
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Déploiement d'applications avec **Docker**, GitLab CI/CD et AWS
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -146,7 +198,9 @@ Je m'intéresse particulièrement à :
 
 <div align="center">
 
-### « Construire aujourd'hui les solutions de demain. »
+> **« Transformer des idées en solutions fiables grâce au code. »**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
 
