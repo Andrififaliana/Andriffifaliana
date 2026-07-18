@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Andrififaliana Simon Pierre RATSARAFIHAVY
+# Bonjour, je suis Andrififaliana Simon Pierre RATSARAFIHAVY
 
-### 🚀 Développeur Full-Stack | Flutter • React • NestJS • Spring Boot
+### Développeur Full-Stack | Flutter • React • NestJS • Spring Boot
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+Developer;NestJS+%26+Spring+Boot;Cloud+%7C+Docker+%7C+AWS;Always+learning+new+technologies" />
 
