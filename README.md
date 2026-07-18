@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=Andrififaliana%20Simon%20Pierre%20RATSARAFIHAVY&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Développeur%20Full-Stack%20•%20React%20•%20NestJS%20•%20Flutter&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:8b5cf6&text=Andrififaliana%20Simon%20Pierre%20RATSARAFIHAVY&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Développeur%20Full-Stack%20•%20React%20•%20NestJS%20•%20Flutter&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Full-Stack;Passionné+par+le+Cloud+Computing+et+le+DevOps;React+•+NestJS+•+Flutter+•+Spring+Boot;Toujours+en+quête+d'apprentissage"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Full-Stack;Passionné+par+le+Cloud+Computing+et+le+DevOps;React+•+NestJS+•+Flutter+•+Spring+Boot;Toujours+en+quête+d'apprentissage"/>
 
 <br><br>
 
 <a href="https://andrififaliana-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:andrififalianaratsarafihavy@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -31,7 +31,7 @@ Je développe principalement avec **Next.js**, **React**, **NestJS** et **Flutte
 | **Domaines** | **Technologies** |
 |:------------|:-----------------|
 | Front-End | Next.js • React • TypeScript • Tailwind CSS |
-| Back-End | NestJS • Spring Boot • Node.js | 
+| Back-End | NestJS • Spring Boot • Node.js |
 | Mobile | Flutter |
 | Bases de données | PostgreSQL • MySQL • MongoDB • Supabase |
 | Cloud & DevOps | Docker • AWS • GitLab CI/CD |
@@ -54,7 +54,7 @@ Je développe principalement avec **Next.js**, **React**, **NestJS** et **Flutte
 
 ### Front-End
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,flutter,dart"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite,flutter,dart"/>
 
 <br><br>
 
@@ -84,13 +84,11 @@ Je développe principalement avec **Next.js**, **React**, **NestJS** et **Flutte
 
 ---
 
-
-
 # Activité
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrififaliana&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrififaliana&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -149,11 +147,11 @@ Déploiement d'applications avec **Docker**, GitLab CI/CD et AWS
 <div align="center">
 
 <a href="mailto:andrififalianaratsarafihavy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-F43F5E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://andrififaliana-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -166,6 +164,6 @@ Déploiement d'applications avec **Docker**, GitLab CI/CD et AWS
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:8b5cf6"/>
 
 </div>
