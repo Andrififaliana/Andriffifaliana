@@ -20,41 +20,23 @@
 
 # À propos
 
-<table>
-<tr>
+Je suis **Andrififaliana Simon Pierre RATSARAFIHAVY**, étudiant en **Licence 3 Informatique** et développeur **Full-Stack**, passionné par la création d'applications web et mobiles modernes, performantes et évolutives.
 
-<td width="60%">
-
-### Présentation
-
-Je suis **Andrififaliana Simon Pierre RATSARAFIHAVY**, étudiant en **Licence 3 Informatique** et développeur **Full-Stack**.
-
-Je conçois des applications modernes, performantes et évolutives en mettant l'accent sur la qualité du code, la maintenabilité et les bonnes pratiques de développement.
-
-Je m'intéresse particulièrement à la conception d'architectures logicielles robustes, au développement d'API sécurisées, au développement mobile ainsi qu'au Cloud Computing.
+Je développe principalement avec **Next.js**, **React**, **NestJS** et **Flutter**, tout en m'intéressant au **Cloud Computing**, au **DevOps** et aux architectures logicielles modernes.
 
 <br>
 
-### Domaines d'intérêt
+<div align="center">
 
-- Développement Web Full-Stack
-- Développement Mobile Flutter
-- Architecture Backend
-- Clean Architecture
-- Cloud Computing
-- DevOps
-- Bases de données relationnelles
+| **Domaines** | **Technologies** |
+|:------------|:-----------------|
+| Front-End | Next.js • React • TypeScript • Tailwind CSS |
+| Back-End | NestJS • Spring Boot • Node.js | 
+| Mobile | Flutter |
+| Bases de données | PostgreSQL • MySQL • MongoDB • Supabase |
+| Cloud & DevOps | Docker • AWS • GitLab CI/CD |
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=andrififaliana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -102,25 +84,7 @@ Je m'intéresse particulièrement à la conception d'architectures logicielles r
 
 ---
 
-# Statistiques GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrififaliana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrififaliana&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=andrififaliana&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # Activité
 
