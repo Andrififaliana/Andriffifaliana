@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:8b5cf6&text=Andrififaliana%20Simon%20Pierre%20RATSARAFIHAVY&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Développeur%20Full-Stack%20•%20React%20•%20NestJS%20•%20Flutter&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:8b5cf6&text=Andrififaliana%20Simon%20Pierre%20RATSARAFIHAVY&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Développeur%20Full-Stack%20•%20Next.js%20•%20NestJS%20•%20Flutter&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Full-Stack;Passionné+par+le+Cloud+Computing+et+le+DevOps;React+•+NestJS+•+Flutter+•+Spring+Boot;Toujours+en+quête+d'apprentissage"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Full-Stack;Passionné+par+le+Cloud+Computing+et+le+DevOps;Next.js+•+NestJS+•+Flutter+•+Spring+Boot;Toujours+en+quête+d'apprentissage"/>
 
 <br><br>
 
